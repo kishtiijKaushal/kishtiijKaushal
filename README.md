@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Kishitij Kaushal.
+I am a Junior at Virginia Tech.
 
 <!--
 **kishtiijKaushal/kishtiijKaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
